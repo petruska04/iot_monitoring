@@ -1,0 +1,23 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+button {
+    margin: 10px;
+    background-color: #333;
+    color: white;
+    border: 2px solid #333;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #555;
+    border-color: #555;
+}
